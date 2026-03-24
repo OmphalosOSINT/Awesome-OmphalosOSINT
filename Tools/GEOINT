@@ -1,0 +1,82 @@
+# 🌍 GEOINT — Geolocation & Imagery
+
+> Tools and resources for geolocation, satellite imagery, map analysis, and terrain investigation.
+
+← [Back to Index](../README.md)
+
+---
+
+## Table of Contents
+
+- [Satellite & Aerial Imagery](#satellite--aerial-imagery)
+- [Street View & Ground Level](#street-view--ground-level)
+- [Sun, Shadow & Weather Analysis](#sun-shadow--weather-analysis)
+- [Maps & Terrain](#maps--terrain)
+- [Geolocation Challenges & Training](#geolocation-challenges--training)
+- [Flight & Maritime Tracking](#flight--maritime-tracking)
+
+---
+
+## Satellite & Aerial Imagery
+
+| Tool | Description | Free | Origin |
+|------|-------------|------|--------|
+| [Google Earth Pro](https://www.google.com/earth/about/versions/) | Historical satellite imagery | ✅ | 🇺🇸 USA |
+| [Sentinel Hub](https://www.sentinel-hub.com) | ESA satellite imagery (Sentinel, Landsat) | 🔶 Freemium | 🇸🇮 Slovenia |
+| [Copernicus Browser](https://browser.dataspace.copernicus.eu) | Free ESA satellite data browser | ✅ | 🇪🇺 EU |
+| [Bing Maps](https://www.bing.com/maps) | Aerial imagery, sometimes more recent than Google | ✅ | 🇺🇸 USA |
+| [Maxar](https://www.maxar.com) | High-resolution commercial satellite imagery | ❌ Paid | 🇺🇸 USA |
+| [Planet Labs](https://www.planet.com) | Daily satellite imagery of the entire Earth | ❌ Paid | 🇺🇸 USA |
+| [NASA Worldview](https://worldview.earthdata.nasa.gov) | Near real-time satellite imagery (NASA) | ✅ | 🇺🇸 USA |
+
+---
+
+## Street View & Ground Level
+
+| Tool | Description | Free | Origin |
+|------|-------------|------|--------|
+| [Google Street View](https://www.google.com/streetview/) | Ground-level 360° imagery worldwide | ✅ | 🇺🇸 USA |
+| [Mapillary](https://www.mapillary.com) | Crowdsourced street-level photos | ✅ | 🇸🇪 Sweden |
+| [Yandex Panorama](https://yandex.com/maps) | Street view for Russia & CIS countries | ✅ | 🇷🇺 Russia |
+| [Baidu Maps](https://map.baidu.com) | Street view for China | ✅ | 🇨🇳 China |
+| [KartaView](https://kartaview.org) | Open-source street-level imagery | ✅ | 🇷🇴 Romania |
+
+---
+
+## Sun, Shadow & Weather Analysis
+
+| Tool | Description | Free | Origin |
+|------|-------------|------|--------|
+| [SunCalc](https://www.suncalc.org) | Sun position & shadow analysis by date/time/location | ✅ | 🇩🇪 Germany |
+| [ShadowCalculator](http://shadowcalculator.eu) | Shadow length & direction calculator | ✅ | 🇸🇰 Slovakia |
+| [Meteoblue](https://www.meteoblue.com) | Historical weather data by location | 🔶 Freemium | 🇨🇭 Switzerland |
+| [Ventusky](https://www.ventusky.com) | Wind, rain & temperature visualization | ✅ | 🇨🇿 Czech Republic |
+| [Windy](https://www.windy.com) | Real-time weather map for temporal verification | ✅ | 🇨🇿 Czech Republic |
+
+---
+
+## Maps & Terrain
+
+| Tool | Description | Free | Origin |
+|------|-------------|------|--------|
+| [OpenStreetMap](https://www.openstreetmap.org) | Open-source collaborative world map | ✅ | 🇬🇧 UK |
+| [Overpass Turbo](https://overpass-turbo.eu) | Query OpenStreetMap data | ✅ | 🇩🇪 Germany |
+| [What3Words](https://what3words.com) | Precise 3m² location identification | ✅ | 🇬🇧 UK |
+| [GeoHints](https://geohints.com) | Country identification clues for GEOINT | ✅ | 🇺🇸 USA |
+| [Peakvisor](https://peakvisor.com) | Mountain & peak identification from photos | 🔶 Freemium | 🇨🇿 Czech Republic |
+| [Mapbox](https://www.mapbox.com) | Custom map layers and geospatial analysis | 🔶 Freemium | 🇺🇸 USA |
+
+---
+
+## Geolocation Challenges & Training
+
+| Tool | Description | Free | Origin |
+|------|-------------|------|--------|
+| [GeoGuessr](https://www.geoguessr.com) | Geolocation training game | 🔶 Freemium | 🇸🇪 Sweden |
+| [Geotips](https://www.geotips.net) | Country clues and GEOINT tips | ✅ | 🇺🇸 USA |
+| [Bellingcat Geolocation Guide](https://www.bellingcat.com/resources/how-tos/2021/11/16/geolocating-images-a-beginners-guide/) | Step-by-step geolocation methodology | ✅ | 🇳🇱 Netherlands |
+| [Geocaching](https://www.geocaching.com) | Terrain familiarity & landmark identification | ✅ | 🇺🇸 USA |
+
+---
+
+*Maintained by [Omphalos OSINT](https://github.com/OmphalosOSINT) · [Back to Index](../README.md)*
