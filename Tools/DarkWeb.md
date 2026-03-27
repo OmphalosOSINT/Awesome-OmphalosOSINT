@@ -66,7 +66,7 @@
 | [DarkOwl](https://www.darkowl.com) | Dark web data collection & monitoring | ❌ Paid | 🇺🇸 USA |
 | [Silobreaker](https://www.silobreaker.com) | Threat intelligence aggregator | ❌ Paid | 🇸🇪 Sweden |
 | [Cybersixgill](https://cybersixgill.com) | Underground forum & dark web monitoring | ❌ Paid | 🇮🇱 Israel |
-| [Pulsedive.com](https://pulsedive.com) | | Community threat intelligence platform with MITRE ATT&CK enrichment — correlates IOCs | 🔶 Freemium | 🇺🇸 USA |
+| [Pulsedive.com](https://pulsedive.com) | Community threat intelligence platform with MITRE ATT&CK enrichment — correlates IOCs | 🔶 Freemium | 🇺🇸 USA |
 | [Threatbook.io](https://threatbook.io) | Intelligence-driven threat detection with deep APAC threat actor coverage | 🔶 Freemium | 🇨🇳 China |
 
 
