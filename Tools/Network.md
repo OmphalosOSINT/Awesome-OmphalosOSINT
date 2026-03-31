@@ -77,6 +77,7 @@
 | [ZoomEye](https://www.zoomeye.org) | Cyberspace search engine (Shodan alternative) | 🔶 Freemium | 🇨🇳 China |
 | [GreyNoise](https://www.greynoise.io) | Internet background noise & mass scanner detection | 🔶 Freemium | 🇺🇸 USA |
 | [BinaryEdge](https://www.binaryedge.io) | Internet scanning & threat intelligence | 🔶 Freemium | 🇵🇹 Portugal |
+| [SpiderFoot](https://github.com/smicallef/spiderfoot) |collects and correlates data on IPs, domains, emails and names | ✅ | 🇬🇧 UK |
 
 ---
 
