@@ -27,6 +27,7 @@
 | [Planet Labs](https://www.planet.com) | Daily satellite imagery of the entire Earth | ❌ Paid | 🇺🇸 USA |
 | [NASA Worldview](https://worldview.earthdata.nasa.gov) | Near real-time satellite imagery (NASA) | ✅ | 🇺🇸 USA |
 | [Creepy](https://www.geocreepy.com) | Extracts and visualizes geolocation data from photo metadata published on social networks | ✅ | 🇬🇷 Greece |
+| [Phantom Tide](https://phantom.labs.jamessawyer.co.uk/) | Maritime/airspace OSINT dashboard — vessel tracking, AIS analysis, and satellite-based detections | ✅ | 🇬🇧 UK |
 
 ---
 
