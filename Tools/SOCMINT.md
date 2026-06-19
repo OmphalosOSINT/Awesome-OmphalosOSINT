@@ -57,7 +57,6 @@
 
 | Tool | Description | Free | Origin |
 |------|-------------|------|--------|
-| [Twint](https://github.com/twintproject/twint) | Twitter scraping without API | ✅ | 🇺🇸 USA |
 | [TweetDeck](https://tweetdeck.twitter.com) | Advanced Twitter search & monitoring | ✅ | 🇺🇸 USA |
 | [Social Bearing](https://socialbearing.com) | Twitter analytics and search | ✅ | 🇬🇧 UK |
 | [Followerwonk](https://followerwonk.com) | Twitter bio search and follower analysis | 🔶 Freemium | 🇺🇸 USA |
