@@ -59,6 +59,7 @@
 |------|-------------|------|--------|
 | [TweetDeck](https://tweetdeck.twitter.com) | Advanced Twitter search & monitoring | ✅ | 🇺🇸 USA |
 | [Social Bearing](https://socialbearing.com) | Twitter analytics and search | ✅ | 🇬🇧 UK |
+| [Xquik](https://xquik.com) | X/Twitter search, profile export, media download & monitoring | 🔶 Freemium | 🌐 International |
 | [Followerwonk](https://followerwonk.com) | Twitter bio search and follower analysis | 🔶 Freemium | 🇺🇸 USA |
 | [Botometer](https://botometer.osome.iu.edu) | Bot detection for Twitter accounts | ✅ | 🇺🇸 USA |
 
