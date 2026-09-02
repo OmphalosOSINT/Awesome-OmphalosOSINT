@@ -23,7 +23,7 @@
 - [Frameworks](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/Frameworks.md)
 - [GEOINT — Geolocation & Imagery](Tools/GEOINT.md)
 - [HUMINT — People Intelligence](Tools/HUMINT.md)
-- [Maritime Tracking](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/MaritimeTracking.md]
+- [Maritime Tracking](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/MaritimeTracking.md)
 - [Metadata & File Analysis](Tools/Metadata&FileAnalysis.md)
 - [Network & Infrastructure](Tools/Network.md)
 - [Network mapping & Monitoring](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/MaritimeTracking.md)
