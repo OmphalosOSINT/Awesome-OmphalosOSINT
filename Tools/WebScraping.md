@@ -10,7 +10,7 @@
 
 | Tool                                          | Description                                                                                          | Free       | Origin     |
 | --------------------------------------------- | --------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| [ScrapingAnt](https://scrapingant.com/?ref=ymqyowu) | Web scraping API with headless browser (JavaScript rendering) and residential proxies. No-code request builder + API. *(affiliate link)* | 🔶 Freemium | 🇪🇪 Estonia |
+| [ScrapingAnt](https://scrapingant.com/?ref=ymqyowu) | Web scraping API with headless browser (JavaScript rendering) and residential proxies. No-code request builder + API. *(affiliate link)* | 🔶 Freemium | 🇺🇦 Ukraine |
 
 ---
 
