@@ -17,12 +17,19 @@
 - [Corporate & Business Intelligence](Tools/Corporate.md)
 - [Cryptocurrency & Blockchain](Tools/Crypto.md)
 - [Dark Web](Tools/DarkWeb.md)
+- [Databases](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/Databases.md)
 - [Email & Username](Tools/Email&Username.md)
+- [Flight Tracking](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/FlightTracking.md)
+- [Frameworks](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/Frameworks.md)
 - [GEOINT — Geolocation & Imagery](Tools/GEOINT.md)
 - [HUMINT — People Intelligence](Tools/HUMINT.md)
+- [Maritime Tracking](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/MaritimeTracking.md]
 - [Metadata & File Analysis](Tools/Metadata&FileAnalysis.md)
 - [Network & Infrastructure](Tools/Network.md)
+- [Network mapping & Monitoring](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/MaritimeTracking.md)
 - [SOCMINT — Identity & Social Media](Tools/SOCMINT.md)
+- [Web Scraping & Data Collection](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/WebScraping.md)
+- [Youtube](https://github.com/OmphalosOSINT/Awesome-OSINT-Toolbox/blob/main/Tools/Youtube.md)
 
 ---
 
